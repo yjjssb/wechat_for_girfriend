@@ -3,7 +3,7 @@
 正文内容：
 [{{m_n_a.DATA}}]
 {{eat.DATA}}
-所在城市：{{city1.DATA}}
+所在城市：{{长沙}}
 当前时间：{{daytime.DATA}}
 今日天气：{{weather1.DATA}}
 当前温度：{{temperature1.DATA}}
